@@ -2,7 +2,7 @@
 <h3 align="center">Computer science student from Russia and game developer</h3>
 
 - 🌱 I’m currently learning **Unity** and **C#**
-- :collision: I'm working on an **online shooter** about World War II
+- :collision: I'm currently working on an **online shooter** about World War II
 - ✨ I'm currently working in a game studio and studying at university
 
 <h3 align="left">Main languages and tools:</h3>
