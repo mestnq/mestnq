@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kseniya</h1>
-<h3 align="center">Computer science student from Russia and game developer</h3>
+<h3 align="center">Game developer</h3>
 
 - 🌱 I’m currently learning **Unity** and **C#**
 - :collision: I'm currently working on an **online shooter** about World War II
-- ✨ I'm currently working in a game studio and studying at university
+- ✨ I'm currently working in a game studio
 
 <h3 align="left">Main languages and tools:</h3>
 </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
